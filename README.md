@@ -26,7 +26,7 @@ Menampilkan tulisan dalam bentuk head satu dan paragraf
 ### 2. Alert dan Prompt
 
 Memasukkan nama, menekan cancel, dan membiarkan input kosong. Menggunakan
-syntax if untuk mmengeksekusi suatu kondisi.
+syntax if untuk mengeksekusi suatu kondisi.
 
 ![Screenshot 4](screenshoot/4.png)
 
